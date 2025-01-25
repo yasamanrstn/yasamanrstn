@@ -1,4 +1,4 @@
-![logo](https://github.com/yasamanrstn/yasamanrstn/blob/main/photo_2025-01-25_12-57-32.jpg)
+![logo](https://github.com/yasamanrstn/yasamanrstn/blob/main/photo_2025-01-25_13-17-35.jpg)
 
 <h1 align="center">Hello 👋, I'm Yasaman</h1>
 <h3 align="center">A beginner web designer from Iran✨</h3>
