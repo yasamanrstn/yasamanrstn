@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello , I'm Yasaman</h1>
+<h1 align="center">Hi , I'm Yasaman</h1>
 <h3 align="center">A beginner web designer ✨</h3>
 
 <img aling="center" alt="ysmn" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
